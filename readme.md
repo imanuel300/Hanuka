@@ -1,5 +1,9 @@
 # 🕎 חנוכיה חכמה - מיקרו:ביט (MicroBit V2)
-https://youtube.com/shorts/oV0xpCVNxG4
+![Hanukia](https://github.com/imanuel300/Hanuka/blob/main/%D7%97%D7%A0%D7%95%D7%9B%D7%99%D7%94.gif)
+
+[וידאו קצר](https://youtube.com/shorts/oV0xpCVNxG4?feature=share)
+
+
 ## 📋 פרטי הפרויקט
 
 **שם הפרויקט:** חנוכיה חכמה אלקטרונית  
