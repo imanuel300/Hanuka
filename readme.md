@@ -1,5 +1,5 @@
 # 🕎 חנוכיה חכמה - מיקרו:ביט (MicroBit V2)
-
+https://youtube.com/shorts/oV0xpCVNxG4
 ## 📋 פרטי הפרויקט
 
 **שם הפרויקט:** חנוכיה חכמה אלקטרונית  
