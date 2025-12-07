@@ -1,8 +1,4 @@
 # 🕎 חנוכיה חכמה - מיקרו:ביט (MicroBit V2)
-![Hanukia](https://github.com/imanuel300/Hanuka/blob/main/%D7%97%D7%A0%D7%95%D7%9B%D7%99%D7%94.gif)
-
-[וידאו קצר](https://youtube.com/shorts/oV0xpCVNxG4?feature=share)
-
 
 ## 📋 פרטי הפרויקט
 
@@ -18,6 +14,11 @@
 פרויקט זה נועד ליצור חנוכיה אלקטרונית אינטראקטיבית המשלבת 9 נורות LED (8 נרות + שמש בכל צד) הנשלטות על ידי מיקרו-בקר MicroBit V2. החנוכיה כוללת מספר מצבי הפעלה: מצב ידני, מצבי דמו מגוונים, ומצב תגובה לקול.
 
 ---
+![Hanukia](https://github.com/imanuel300/Hanuka/blob/main/%D7%97%D7%A0%D7%95%D7%9B%D7%99%D7%94.gif)
+
+[וידאו קצר](https://youtube.com/shorts/oV0xpCVNxG4?feature=share)
+
+
 
 ## 🔧 רכיבים נדרשים
 
